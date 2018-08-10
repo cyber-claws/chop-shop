@@ -25,6 +25,7 @@ r - Remove original file
 
 ```bash
 
+$ git clone https://github.com/cyber-claws/chop-shop.git && cd $_
 $ sudo chmod 777 bin.sh
 $ ./bin.sh -d /home/user/Desktop/audio -l 20 -f wav -r
 
